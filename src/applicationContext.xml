@@ -7,7 +7,7 @@
     http://www.springframework.org/schema/context
     http://www.springframework.org/schema/context/spring-context.xsd">
 
-   <bean id="coach" class="com.anshul.ioc.TennisCoach"/>
+   <bean id="coach" class="com.anshul.di.xml.BaseBallCoach"/>
     
 </beans>
 
