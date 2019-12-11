@@ -1,7 +1,6 @@
-package com.anshul.ioc;
+package com.anshul.without.coding2interface;
 
-public class BaseBallCoach implements Coach{
-	@Override
+public class BaseBallCoach {
 	public String getDailyWorOut() {
 		return "spend 30 minutes for batting practise";
 	}
